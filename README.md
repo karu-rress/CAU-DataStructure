@@ -1,4 +1,4 @@
-# [CAU] Data Structures
+# [CAU] Data Structure
 
 <table>
   <tr>
